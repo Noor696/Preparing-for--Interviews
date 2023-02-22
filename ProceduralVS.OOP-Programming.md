@@ -12,6 +12,8 @@ Procedural Programming can be defined as a programming model which is derived fr
 
 Object-oriented programming can be defined as a programming model which is based upon the concept of objects. Objects contain data in the form of attributes and code in the form of methods. In object-oriented programming, computer programs are designed using the concept of objects that interact with the real world. Object-oriented programming languages are various but the most popular ones are class-based, meaning that objects are instances of classes, which also determine their types.
 
+* We have seen that we can split a larger task into that smaller pieces, and each of those pieces can be worked on by separate teams, separate people, and also each of those pieces become reusable if we need the same functionality in the future
+
 
 
 
